@@ -1,0 +1,14 @@
+{
+  "name": "advanced-e2e-encrypted-chat",
+  "version": "1.0.0",
+  "description": "Advanced end-to-end encrypted chat application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.4.1",
+    "crypto-js": "^4.1.1"
+  }
+}
